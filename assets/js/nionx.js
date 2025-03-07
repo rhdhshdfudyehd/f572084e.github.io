@@ -162,7 +162,6 @@
   );
 
   $('._tg_url').click(function (){
-    $(this).attr('href', 'https://t.me/yolanda_ggg');
-    gtag('event', 'conversion', {'send_to': 'AW-11500587481/kFe-CLHHmv8ZENmT9Osq'});
+    $(this).attr('href', 'https://t.me/Gige188653');
   });
 })(jQuery);
