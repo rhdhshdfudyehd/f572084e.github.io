@@ -162,7 +162,6 @@
   );
 
   $('._tg_url').click(function (){
-    $(this).attr('href', 'https://t.me/Gige188653');
-    gtag('config', 'AW-11523349770');
+    $(this).attr('href', 'https://t.me/salome_chaplin');
   });
 })(jQuery);
